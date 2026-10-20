@@ -1,0 +1,27 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+x64/
+Debug/
+Release/
+
+# Compiled binaries
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+
+# OS files
+Thumbs.db
+desktop.ini
