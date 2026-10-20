@@ -1,0 +1,2 @@
+This is a plain text file served by our custom C++ server.
+It proves that MIME types and arbitrary files work correctly.
